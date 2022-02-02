@@ -6,5 +6,4 @@ public class B {
 	System.out.println("good evening");
 
 	}
-
 }
